@@ -1,0 +1,69 @@
+[
+  {
+    "must": [
+      "令"
+    ],
+    "may": [],
+    "info": {
+      "id": "8",
+      "declaration": "7",
+      "supply": "未选择",
+      "team": "未选择",
+      "encounter": "未选择",
+      "ending": "未选择",
+      "hope": "0"
+    }
+  },
+  {
+    "must": [
+      "伺夜"
+    ],
+    "may": [
+      "刻俄柏"
+    ],
+    "info": {
+      "id": "6",
+      "declaration": "5",
+      "supply": "未选择",
+      "team": "未选择",
+      "encounter": "未选择",
+      "ending": "未选择",
+      "hope": "0"
+    }
+  },
+  {
+    "must": [
+      "伺夜"
+    ],
+    "may": [
+      "佩佩"
+    ],
+    "info": {
+      "id": "1",
+      "declaration": "4",
+      "supply": "未选择",
+      "team": "未选择",
+      "encounter": "未选择",
+      "ending": "245 滚动 三级蛋",
+      "hope": "0"
+    }
+  },
+  {
+    "must": [
+      "余"
+    ],
+    "may": [
+      "余"
+    ],
+    "info": {
+      "id": "2",
+      "declaration": "3",
+      "supply": "未选择",
+      "team": "未选择",
+      "encounter": "未选择",
+      "ending": "未选择",
+      "hope": "0"
+    }
+  },
+  "啊啊啊"
+]
